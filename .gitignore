@@ -6,3 +6,4 @@ data/
 out/
 .env
 .ssh-local/
+docs/*.bak-*
